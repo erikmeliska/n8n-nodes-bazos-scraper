@@ -11,17 +11,17 @@
     "n8n"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/ericsko/n8n-nodes-bazos-scraper",
+  "homepage": "https://github.com/erikmeliska/n8n-nodes-bazos-scraper",
   "author": {
-    "name": "Eric Sko",
-    "email": "ericsko@example.com"
+    "name": "Erik Meliska",
+    "email": "erik.meliska@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ericsko/n8n-nodes-bazos-scraper.git"
+    "url": "git+https://github.com/erikmeliska/n8n-nodes-bazos-scraper.git"
   },
   "bugs": {
-    "url": "https://github.com/ericsko/n8n-nodes-bazos-scraper/issues"
+    "url": "https://github.com/erikmeliska/n8n-nodes-bazos-scraper/issues"
   },
   "main": "dist/index.js",
   "scripts": {
