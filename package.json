@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-bazos-scraper",
-  "version": "1.0.25",
+  "version": "1.0.26",
   "description": "n8n node for scraping Bazos.sk listings",
   "keywords": [
     "n8n-community-node-package",
